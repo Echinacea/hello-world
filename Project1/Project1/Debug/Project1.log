@@ -1,0 +1,16 @@
+﻿已經開始建置於 2014/11/26 下午 11:28:28。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\reborn\documents\visual studio 2012\projects\project1\project1\main.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 請參閱 'fopen' 的宣告
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\file_seting.obj
+         Debug\main.obj
+         Project1.vcxproj -> C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Debug\Project1.exe
+     1>專案 "C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.46

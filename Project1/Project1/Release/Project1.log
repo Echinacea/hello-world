@@ -1,0 +1,16 @@
+﻿已經開始建置於 2014/11/25 下午 08:30:47。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(15): warning C4101: 'str1' : 未參考的區域變數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Release\Project1.exe" /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Release\Project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Release\Project1.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在產生程式碼
+         已完成程式碼產生
+         Project1.vcxproj -> C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Release\Project1.exe
+     1>專案 "C:\Users\reborn\Documents\Visual Studio 2012\Projects\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.39
